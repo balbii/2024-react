@@ -1,0 +1,10 @@
+h1{
+    font-family: Helvetica, sans-serif;
+}
+button{
+    box-sizing: border-box;
+    padding: 3px;
+    color: #4681f4;
+    border-color: #4681f4;
+    border-radius: 2px;
+}
